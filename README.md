@@ -1,5 +1,5 @@
-### 🌱 I’m currently learning Data Analyst
-A fresh graduate pursuing a Data Analyst major to practice my business knowledge, technology skills, and problem-solving skills. I am passionate about finding effective solutions and suitable strategies for business along with achieving my goal of being a professional data analyst
+### 🌱 I’m currently learning Research and Analyst
+A fresh graduate pursuing an Analyst major to practice my business knowledge, technology skills, and problem-solving skills. I am passionate about finding effective solutions and suitable strategies for business along with achieving my goal of being a professional data analyst
 
 💬 hadungvo714@gmail.com
 ## Technical Skills
